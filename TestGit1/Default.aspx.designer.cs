@@ -18,5 +18,7 @@ namespace TestGit1 {
 		protected System.Web.UI.WebControls.Button button1;
 		
 		protected System.Web.UI.WebControls.Button button2;
+		
+		protected System.Web.UI.WebControls.Button button3;
 	}
 }
